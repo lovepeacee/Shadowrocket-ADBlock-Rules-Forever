@@ -436,3 +436,7 @@ yahoo.com
 
 # Linkedin
 linkedin.cn
+
+
+# cloudflare
+cloudflare.com
